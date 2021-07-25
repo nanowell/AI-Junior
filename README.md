@@ -2,5 +2,5 @@
 ## Better than Copilot.
 ## Vscode extension. 
 ## Based on GPT-J-6B.
-## Supports any model.
+## Supports GPT-neo-any/GPT-J-any model.
 ## API/local.
